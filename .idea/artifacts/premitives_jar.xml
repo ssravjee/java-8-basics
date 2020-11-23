@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="premitives:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/premitives_jar</output-path>
+    <root id="archive" name="premitives.jar">
+      <element id="module-output" name="premitives" />
+    </root>
+  </artifact>
+</component>
